@@ -14,7 +14,8 @@ As a first implementation, a basic "Hello" scenerio has been implemented in this
 In this repository, a behavior tree implementation has been done. There are majorly three behaviors implemented which include battery failure fallback, Goto command, fall hazard behavior and a hello response behavior. An overall tree connection along with individual trees are shown below in images. 
 
 
-![overall-tree](images/complete_tree.jpg)
+<!-- ![overall-tree](images/complete_tree.jpg) -->
+![overall-tree](images/BT_updated.jpg)
 
 
 ## Hello Scenerio 
@@ -68,7 +69,7 @@ After following the above setup process, run the following nodes:
 
 ## Under-Development Work ![Version](https://img.shields.io/badge/status-under%20development-yellowgreen)
 
-In the main tree diagram above, the battery fallback, navigation command and the fall hazard tree have been shown. They have been individually tested on the actual robot but are still under development. They are not yet connected to the CUI.
+In the main tree diagram above, the battery fallback, navigation command and the fall hazard tree have been shown. They have been individually tested on the actual robot but are still under development. 
 
 ___
 <br></br>
